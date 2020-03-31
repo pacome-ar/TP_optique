@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: PyPROPER3
+Version: 3.2.1
+Summary: An optical wavefront propagation utility
+Home-page: UNKNOWN
+Author: Navtej Saini, Nikta Amiri, Luis Marchen
+License: BSD
+Description: UNKNOWN
+Platform: any
+Provides-Extra: pyfftw
